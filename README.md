@@ -14,9 +14,9 @@ In this term, you'll expand on your sensor knowledge to localize and control the
 
 After that, you'll learn how to plan where the vehicle should go, and how the vehicle systems work together to get it there.
 
-- Project 1  Kidnapped Vehicle
-- Project2   Highway Driving
-- Project3   PID Controller
+- Project 1  [Kidnapped Vehicle](https://github.com/lilyhappily/Udacity-Project1-CarND-Kidnapped-Vehicle-and-notes)
+- Project2   [Highway Driving](https://github.com/lilyhappily/Udacity-Project2-CarND-Highway-Driving-and-notes)
+- Project3   [PID Controller](https://github.com/lilyhappily/Udacity-Project3-CarND-PID-Control-and-notes)
 - Project4   Improve Your LinkedIn Profile
 - Project5   Optimize Your GitHub Profile
 - Project6   Programming a Real Self-Driving Car
@@ -62,5 +62,5 @@ At first, I attempted to utilize the Twiddle to optimize the parameters.  In Twi
 # Running the Program
 
 1. Download the simulator and open it. In the main menu screen select : Path Planning.
-2. The [PID README](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project)  has more detailed instructions for installing and using c++ uWebScoketIO.
+2. The [PID README](https://github.com/lilyhappily/Udacity-Project3-CarND-PID-Control-and-notes/blob/master/CarND-PID-Control-Project/README.md)  has more detailed instructions for installing and using c++ uWebScoketIO.
 
