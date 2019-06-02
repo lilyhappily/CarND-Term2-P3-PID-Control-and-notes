@@ -2,7 +2,7 @@
 
 In this repository I will share the **source code** of Project 1 Kidnapped-Vehicle coming from Term 2 of [**Udacity Self-Driving Car Engineer Nanodegree**](<https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013>). 
 
-In this  repository, you will find detailed note about this project. I will share all projects and related notes the next repositories. I hope this will be useful to someone. 
+In this  repository, you will find detailed notes about this project. I will share all projects and related notes the next repositories. I hope this will be useful to someone. 
 
 # Term 2 Course Outline
 
