@@ -5,21 +5,18 @@ In this repository I will share the **source code** of Project 1 Kidnapped-Vehic
 In this  repository, you will find detailed notes about this project. I will share all projects and related notes the next repositories. I hope this will be useful to someone. 
 
 # Term 2 Course Outline
-
-## Term 2
-
-#### Localization, Path Planning, Control, and System Integration
+### Localization, Path Planning, Control, and System Integration
 
 In this term, you'll expand on your sensor knowledge to localize and control the vehicle. You'll evaluate sensor data from camera, radar, lidar, and GPS, and use these in closed-loop controllers that actuate the vehicle.
 
 After that, you'll learn how to plan where the vehicle should go, and how the vehicle systems work together to get it there.
 
-- Project 1  [Kidnapped Vehicle](https://github.com/lilyhappily/Udacity-Project1-CarND-Kidnapped-Vehicle-and-notes)
+- Project1  [Kidnapped Vehicle](https://github.com/lilyhappily/Udacity-Project1-CarND-Kidnapped-Vehicle-and-notes)
 - Project2   [Highway Driving](https://github.com/lilyhappily/Udacity-Project2-CarND-Highway-Driving-and-notes)
 - Project3   [PID Controller](https://github.com/lilyhappily/Udacity-Project3-CarND-PID-Control-and-notes)
 - Project4   Improve Your LinkedIn Profile
 - Project5   Optimize Your GitHub Profile
-- Project6   Programming a Real Self-Driving Car
+- Project6   [Programming a Real Self-Driving Car](https://github.com/lilyhappily/Udacity-Project6-CarND-Capstone)
 
 # What is PID Controller
 
